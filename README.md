@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+I'm Timur (bodaue) - Backend developer passionate about Python and Javaю
 
 <h3 align="center">Statistics</h3>
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bodaue&theme=dark"/></div>
@@ -15,3 +16,4 @@
   </a>
 </p>
 
+  
