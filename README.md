@@ -1,6 +1,12 @@
 ### Hi there 👋
-# Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodaue&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">Statistics</h3>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bodaue&theme=dark"/></div>
+<div id="statistics" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bodaue&theme=dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bodaue&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bodaue&card_width=300&theme=dark" alt="GitHub Streak" />
+</div>
 
 <h3 align="center">Skills</h3>
 <p align="center">
@@ -8,17 +14,4 @@
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,git,docker,postgres,mongodb,redis,rabbitmq,linux,html,css&perline=10" />
   </a>
 </p>
-<!--
-**bodaue/bodaue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-  
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
