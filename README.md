@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Timur (bodaue).
+### Hi there 👋
 
 <h3 align="center">Statistics</h3>
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bodaue&theme=dark"/></div>
