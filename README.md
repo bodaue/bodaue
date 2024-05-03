@@ -5,7 +5,7 @@
 <h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,git,docker,postgres,mongodb,linux,html,css&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,git,docker,postgres,mongodb,redis,rabbitmq,linux,html,css&perline=10" />
   </a>
 </p>
 <!--
