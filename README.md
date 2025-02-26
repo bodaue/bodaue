@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=40b983&height=120&section=header&animation=fadeIn)
-
 ## 📊 GitHub Stats
 
 <p align="center">
