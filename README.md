@@ -1,10 +1,14 @@
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=bodaue&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=00000000&rank_icon=github">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bodaue&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=bodaue&theme=vue-dark&background=00000000&hide_border=true">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bodaue&theme=darkhub&no-frame=true&no-bg=true&column=-1" alt="GitHub Trophies" />
+  </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bodaue/bodaue/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bodaue/bodaue/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/bodaue/bodaue/output/github-snake.svg" />
+</picture>
 
 ![bodaue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bodaue&theme=vue&bg_color=00000000&hide_border=true)
 
