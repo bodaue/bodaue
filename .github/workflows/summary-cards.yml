@@ -12,10 +12,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: bodaue
-          BRANCH_NAME: output-cards
           UTC_OFFSET: 5
+          AUTO_PUSH: false
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-cards
+          build_dir: profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
