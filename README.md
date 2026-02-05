@@ -1,21 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bodaue/bodaue/main/achievements.svg" alt="GitHub Achievements" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bodaue/bodaue/output-cards/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/bodaue/bodaue/output-cards/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
-  <img width="49%" src="https://raw.githubusercontent.com/bodaue/bodaue/output-cards/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/bodaue/bodaue/output-cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" />
-  <img width="49%" src="https://raw.githubusercontent.com/bodaue/bodaue/output-cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bodaue/bodaue/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bodaue/bodaue/output/github-snake.svg" />
@@ -23,12 +5,6 @@
 </picture>
 
 ![bodaue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bodaue&theme=vue&bg_color=00000000&hide_border=true)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bodaue/bodaue/output-3d/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bodaue/bodaue/output-3d/profile-green.svg" />
-  <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/bodaue/bodaue/output-3d/profile-night-green.svg" />
-</picture>
 
 ## 🧰 Tech Stack
 
