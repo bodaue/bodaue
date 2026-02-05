@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bodaue/bodaue/output-metrics/achievements.svg" alt="GitHub Achievements" />
+  <img src="https://raw.githubusercontent.com/bodaue/bodaue/main/achievements.svg" alt="GitHub Achievements" />
 </p>
 
 <p align="center">
